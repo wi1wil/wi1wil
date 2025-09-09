@@ -79,8 +79,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wi1wil&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
 
-## 🐍 Watch my contributions turn into a snake!
-
 ![GitHub Snake](https://raw.githubusercontent.com/wi1wil/wi1wil/output/github-contribution-grid-snake.svg)
 ---
 

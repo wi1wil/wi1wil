@@ -19,7 +19,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Wil's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
+![Wil's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilw1l&show_icons=true&theme=tokyonight)  
 
 ---
 

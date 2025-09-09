@@ -12,14 +12,14 @@
 ---
 
 <h2> 🛠️ Skills & Experience </h2>
-- 🎮 Unity Game Development (C#)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
 
 <h2> 📂 Past Projects: </h2>
-
-<h2>📂 Portfolio:</h2>
-
 <table>
   <tr>
     <td width="50%" align="center">
@@ -107,5 +107,11 @@
 
 <h2> 📫 Contact </h2>
 <a href="https://linkedin.com/in/your-link" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/your-link" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://itch.io/profile/your-link" target="_blank">
+  <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
 </a>

@@ -1,9 +1,9 @@
-# Hi there, I'm Wilson 👋  
+## Hi there, I'm Wilson 👋  
 🎮 Game Dev Student | 🖥️ Unity | 🌍 Aspiring Game Developer  
 
 ---
 
-<h2> 🚀 About Me </h2>
+## 🚀 About Me 
 - 🎓 Studying Game Application & Technology @ BINUS
 - 🛠️ Working with Unity, C#
 - 🌱 Learning AI in games & multiplayer systems  
@@ -11,15 +11,14 @@
 
 ---
 
-<h2> 🛠️ Skills & Experience </h2>
+## 🛠️ Skills & Experience
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-
 ---
 
-<h2> 📂 Past Projects: </h2>
+## 📂 Past Projects:
 <table>
   <tr>
     <td width="50%" align="center">
@@ -93,7 +92,7 @@
 </table>
 ---
 
-<h2> 📊 My GitHub History! </h2>
+## 📊 My GitHub History!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wi1wil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -105,7 +104,7 @@
 ![GitHub Snake](https://raw.githubusercontent.com/wi1wil/wi1wil/output/github-contribution-grid-snake.svg)
 ---
 
-<h2> 📫 Contact </h2>
+## 📫 Contact 
 <a href="https://linkedin.com/in/your-link" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>

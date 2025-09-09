@@ -13,8 +13,6 @@
 
 ## 🛠️ Skills & Experience
 - 🎮 Unity Game Development (C#)  
-- 🖥️ Python for AI/Game Systems  
-- 🌐 Web Basics (HTML, CSS, JS)  
 
 ---
 

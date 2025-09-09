@@ -12,11 +12,10 @@
 ---
 
 ## 🛠️ Skills & Experience
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))  
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)  
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-239120.svg?logo=cs&logoColor=white&style=for-the-badge)](https://learn.microsoft.com/en-us/dotnet/csharp/)  
-[![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)  
-
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) 
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/) 
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-239120.svg?logo=cs&logoColor=white&style=for-the-badge)](https://learn.microsoft.com/en-us/dotnet/csharp/) 
+[![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 
 ---
 

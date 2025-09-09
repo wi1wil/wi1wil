@@ -20,12 +20,12 @@
 ---
 
 ## 🔧 Tools
-[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/)
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-[![FL Studio](https://custom-icon-badges.demolab.com/badge/FL%20Studio-20232A.svg?logo=flstudio&logoColor=FF6F00)](https://www.image-line.com/)
-[![DaVinci Resolve](https://custom-icon-badges.demolab.com/badge/DaVinci%20Resolve-233A51.svg?logo=davinci-resolve&logoColor=white)](https://www.blackmagicdesign.com/products/davinciresolve)
-[![Figma](https://custom-icon-badges.demolab.com/badge/Figma-F24E1E.svg?logo=figma&logoColor=white)](https://www.figma.com/)
-[![Notion](https://custom-icon-badges.demolab.com/badge/Notion-000000.svg?logo=notion&logoColor=white)](https://www.notion.so/)
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?logo=visualstudio&logoColor=white&style=for-the-badge)](https://visualstudio.microsoft.com/)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white&style=for-the-badge)](https://code.visualstudio.com/)
+[![FL Studio](https://custom-icon-badges.demolab.com/badge/FL%20Studio-20232A.svg?logo=flstudio&logoColor=FF6F00&style=for-the-badge)](https://www.image-line.com/)
+[![DaVinci Resolve](https://custom-icon-badges.demolab.com/badge/DaVinci%20Resolve-233A51.svg?logo=davinci-resolve&logoColor=white&style=for-the-badge)](https://www.blackmagicdesign.com/products/davinciresolve)
+[![Figma](https://custom-icon-badges.demolab.com/badge/Figma-F24E1E.svg?logo=figma&logoColor=white&style=for-the-badge)](https://www.figma.com/)
+[![Notion](https://custom-icon-badges.demolab.com/badge/Notion-000000.svg?logo=notion&logoColor=white&style=for-the-badge)](https://www.notion.so/)
 
 ---
 

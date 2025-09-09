@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Studying Game Application & Technology @ <a href="https://binus.ac.id/" target="_blank">
+- 🎓 Studying Game Application & Technology <a href="https://binus.ac.id/" target="_blank">
   <img src="https://img.shields.io/badge/BINUS-blue?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 - 🛠️ Working with Unity, C#

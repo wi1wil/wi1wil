@@ -78,7 +78,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wi1wil&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
-
 ## 🐍 Watch my contributions turn into a snake!
 
 ![Snake animation](https://github.com/wi1wil/wi1wil/blob/output/github-contribution-grid-snake.svg)

@@ -20,8 +20,9 @@
 ---
 
 ## 🔧 Tools
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![FL Studio](https://img.shields.io/badge/FL%20Studio-FF8000?style=for-the-badge&logo=fl-studio&logoColor=white)](https://www.image-line.com/)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](https://code.visualstudio.com/)
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](https://code.visualstudio.com/)
+![FL Studio](https://img.shields.io/badge/FL%20Studio-FF6F00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgdmlld0JveD0iMCAwIDUxMiA1MTIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZmlsbD0iI0ZGNjYwMCIgZD0iTTI1NiAwYzE0MSAwIDI1NiAxMTUgMjU2IDI1NnMtMTE1IDI1Ni0yNTYgMjU2UzAgMzk3IDAgMjU2UzExNSAwaDI1NnoiLz48L3N2Zz4=&logoColor=white)
 [![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinci-resolve&logoColor=white)](https://www.blackmagicdesign.com/products/davinciresolve)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)

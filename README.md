@@ -3,22 +3,22 @@
 
 ---
 
-## 🚀 About Me
-- 🎓 Studying Game Application & Technology <a href="https://binus.ac.id/" target="_blank">
-  <img src="https://img.shields.io/badge/BINUS-blue?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
+<h2> 🚀 About Me </h2>
+- 🎓 Studying Game Application & Technology @ BINUS
 - 🛠️ Working with Unity, C#
 - 🌱 Learning AI in games & multiplayer systems  
 - 💡 Interested in game development, procedural generation, and cool enemy AI  
 
 ---
 
-## 🛠️ Skills & Experience
+<h2> 🛠️ Skills & Experience </h2>
 - 🎮 Unity Game Development (C#)  
 
 ---
 
 <h2> 📂 Past Projects: </h2>
+
+<h2>📂 Portfolio:</h2>
 
 <table>
   <tr>
@@ -34,8 +34,9 @@
       <a href="https://github.com/wi1wil/MulungPreneur">
         <img src="https://img.shields.io/badge/READ%20MORE-orange?style=for-the-badge" />
       </a>
-      •
-      <a href="https://itch.io">Play on itch.io</a>
+      <a href="https://itch.io">
+        <img src="https://img.shields.io/badge/Play%20on%20Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
+      </a>
     </td>
     <td width="50%" align="center">
       <h3>Focus Up</h3>
@@ -49,8 +50,9 @@
       <a href="https://github.com/wi1wil/LST">
         <img src="https://img.shields.io/badge/READ%20MORE-orange?style=for-the-badge" />
       </a>
-      •
-      <a href="https://itch.io">Play on itch.io</a>
+      <a href="https://itch.io">
+        <img src="https://img.shields.io/badge/Play%20on%20Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
+      </a>
     </td>
   </tr>
 
@@ -67,8 +69,9 @@
       <a href="https://github.com/wi1wil/brackeys-gamejam">
         <img src="https://img.shields.io/badge/READ%20MORE-orange?style=for-the-badge" />
       </a>
-      •
-      <a href="https://itch.io">Play on itch.io</a>
+      <a href="https://itch.io">
+        <img src="https://img.shields.io/badge/Play%20on%20Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
+      </a>
     </td>
     <td width="50%" align="center">
       <h3>Magic City</h3>
@@ -82,14 +85,15 @@
       <a href="https://github.com/wi1wil/MagicCity">
         <img src="https://img.shields.io/badge/READ%20MORE-orange?style=for-the-badge" />
       </a>
-      •
-      <a href="https://itch.io">Play on itch.io</a>
+      <a href="https://itch.io">
+        <img src="https://img.shields.io/badge/Play%20on%20Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
+      </a>
     </td>
   </tr>
 </table>
 ---
 
-## 📊 My GitHub History!
+<h2> 📊 My GitHub History! </h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wi1wil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -101,7 +105,7 @@
 ![GitHub Snake](https://raw.githubusercontent.com/wi1wil/wi1wil/output/github-contribution-grid-snake.svg)
 ---
 
-## 📫 Contact
+<h2> 📫 Contact </h2>
 <a href="https://linkedin.com/in/your-link" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
 </a>

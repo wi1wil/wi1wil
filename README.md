@@ -70,8 +70,15 @@
 
 ---
 
-## 📊 GitHub Stats
-![Wil's GitHub stats](https://github-readme-stats.vercel.app/api?username=wi1wil&show_icons=true&theme=tokyonight)  
+## 📊 My GitHub History!
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wi1wil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wi1wil&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
+![Snake animation](https://github.com/wi1wil/wi1wil/blob/output/github-contribution-grid-snake.svg)
 
 ---
 

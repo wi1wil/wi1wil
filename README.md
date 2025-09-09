@@ -19,13 +19,15 @@
 ---
 
 ## 📊 GitHub Stats
-![Wil's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilw1l&show_icons=true&theme=tokyonight)  
+![Wil's GitHub stats](https://github-readme-stats.vercel.app/api?username=wi1wil&show_icons=true&theme=tokyonight)  
 
 ---
 
 ## 🌟 Featured Projects
-- 🎯 [Tower Defense Game](https://github.com/yourusername/tower-defense) – Unity 2D strategy game with AI navigation  
-- 🕹️ [Mario Clone](https://github.com/yourusername/mario-clone) – Classic platformer with a twist  
+- 🎯 [Mulung Preneur](https://github.com/wi1wil/MulungPreneur) – Unity 2D strategy game with AI navigation  
+- 🕹️ [Mario Clone](https://github.com/wi1wil/brackeys-gamejam) – Classic platformer with a twist  
+- 🕹️ [Mario Clone](https://github.com/wi1wil/FocusUp) – Classic platformer with a twist  
+- 🕹️ [Mario Clone](https://github.com/wi1wil/MagicCity) – Classic platformer with a twist  
 
 ---
 

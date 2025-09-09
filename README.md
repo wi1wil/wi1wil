@@ -1,11 +1,11 @@
 # Hi there, I'm Wil 👋
 
-🎮 Game Dev Student | 🖥️ Unity & C# Enthusiast | 🌍 Aspiring Remote Dev  
+🎮 Game Dev Student | 🖥️ Unity | 🌍 Aspiring Game Developer  
 
 ---
 
 ## 🚀 About Me
-- 🎓 Studying Game Application & Technology @ [Your Uni]  
+- 🎓 Studying Game Application & Technology @ [BINUS (https://binus.ac.id/)]  
 - 🛠️ Working with Unity, C#, Python  
 - 🌱 Learning AI in games & multiplayer systems  
 - 💡 Interested in game design, procedural generation, and cool AI  

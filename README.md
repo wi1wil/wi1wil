@@ -44,7 +44,7 @@
 
   <tr>
     <td align="center" width="50%">
-      <h3>Brackeys Game Jam</h3>
+      <h3>Belly Bet Cookies</h3>
       <a href="https://github.com/wi1wil/brackeys-gamejam">
         <img src="https://github.com/wi1wil/brackeys-gamejam/raw/main/screenshot.png" width="100%" alt="Mario Clone Screenshot"/>
       </a>

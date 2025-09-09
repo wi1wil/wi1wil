@@ -1,4 +1,4 @@
-# Hi there, I'm Wil 👋  
+# Hi there, I'm Wilson 👋  
 🎮 Game Dev Student | 🖥️ Unity | 🌍 Aspiring Game Developer  
 
 ---

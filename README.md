@@ -38,11 +38,11 @@
       </a>
     </td>
     <td width="50%" align="center">
-      <h3>Focus Up</h3>
-      <img src="https://github.com/wi1wil/FocusUp/raw/main/screenshot.png" width="100%" alt="Focus Up Screenshot"/>
+      <h3>FLogic Seed Training</h3>
+      <img src="https://github.com/wi1wil/LST/raw/main/screenshot.png" width="100%" alt="Focus Up Screenshot"/>
       <br/>
       <!-- Add GIF Preview Here -->
-      <img src="https://github.com/wi1wil/FocusUp/raw/main/demo.gif" width="80%" alt="Focus Up Gameplay GIF"/>
+      <img src="https://github.com/wi1wil/LST/raw/main/demo.gif" width="80%" alt="Focus Up Gameplay GIF"/>
       <p>
         A productivity-based game designed to help players stay focused and motivated.  
       </p>

@@ -4,7 +4,9 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Studying Game Application & Technology @ <a href="https://binus.ac.id/" target="_blank">BINUS</a>  
+- 🎓 Studying Game Application & Technology @ <a href="https://binus.ac.id/" target="_blank">
+  <img src="https://img.shields.io/badge/BINUS-blue?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 - 🛠️ Working with Unity, C#
 - 🌱 Learning AI in games & multiplayer systems  
 - 💡 Interested in game development, procedural generation, and cool enemy AI  
@@ -32,11 +34,11 @@
     </td>
     <td align="center" width="50%">
       <h3>Focus Up</h3>
-      <a href="https://github.com/wi1wil/FocusUp">
+      <a href="https://github.com/wi1wil/LST">
         <img src="https://github.com/wi1wil/FocusUp/raw/main/screenshot.png" width="100%" alt="Focus Up Screenshot"/>
       </a>
       <br/>
-      <a href="https://github.com/wi1wil/FocusUp">GitHub Repository</a>  
+      <a href="https://github.com/wi1wil/LST">GitHub Repository</a>  
       •  
       <a href="https://itch.io">Play on itch.io</a>
     </td>

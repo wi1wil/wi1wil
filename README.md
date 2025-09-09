@@ -18,56 +18,75 @@
 
 ---
 
-## 🎮 Past Projects  
+<h2> 📂 Past Projects: </h2>
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td width="50%" align="center">
       <h3>Mulung Preneur</h3>
-      <a href="https://github.com/wi1wil/MulungPreneur">
-        <img src="https://github.com/wi1wil/MulungPreneur/raw/main/screenshot.png" width="100%" alt="Mulung Preneur Screenshot"/>
-      </a>
+      <img src="https://github.com/wi1wil/MulungPreneur/raw/main/screenshot.png" width="100%" alt="Mulung Preneur Screenshot"/>
       <br/>
-      <a href="https://github.com/wi1wil/MulungPreneur">GitHub Repository</a>  
-      •  
+      <!-- Add GIF Preview Here -->
+      <img src="https://github.com/wi1wil/MulungPreneur/raw/main/demo.gif" width="80%" alt="Mulung Preneur Gameplay GIF"/>
+      <p>
+        A casual recycling tycoon game where players collect trash and turn it into profit.  
+      </p>
+      <a href="https://github.com/wi1wil/MulungPreneur">
+        <img src="https://img.shields.io/badge/READ%20MORE-orange?style=for-the-badge" />
+      </a>
+      •
       <a href="https://itch.io">Play on itch.io</a>
     </td>
-    <td align="center" width="50%">
+    <td width="50%" align="center">
       <h3>Focus Up</h3>
-      <a href="https://github.com/wi1wil/LST">
-        <img src="https://github.com/wi1wil/FocusUp/raw/main/screenshot.png" width="100%" alt="Focus Up Screenshot"/>
-      </a>
+      <img src="https://github.com/wi1wil/FocusUp/raw/main/screenshot.png" width="100%" alt="Focus Up Screenshot"/>
       <br/>
-      <a href="https://github.com/wi1wil/LST">GitHub Repository</a>  
-      •  
+      <!-- Add GIF Preview Here -->
+      <img src="https://github.com/wi1wil/FocusUp/raw/main/demo.gif" width="80%" alt="Focus Up Gameplay GIF"/>
+      <p>
+        A productivity-based game designed to help players stay focused and motivated.  
+      </p>
+      <a href="https://github.com/wi1wil/LST">
+        <img src="https://img.shields.io/badge/READ%20MORE-orange?style=for-the-badge" />
+      </a>
+      •
       <a href="https://itch.io">Play on itch.io</a>
     </td>
   </tr>
 
   <tr>
-    <td align="center" width="50%">
+    <td width="50%" align="center">
       <h3>Belly Bet Cookies</h3>
-      <a href="https://github.com/wi1wil/brackeys-gamejam">
-        <img src="https://github.com/wi1wil/brackeys-gamejam/raw/main/screenshot.png" width="100%" alt="Mario Clone Screenshot"/>
-      </a>
+      <img src="https://github.com/wi1wil/brackeys-gamejam/raw/main/screenshot.png" width="100%" alt="Belly Bet Cookies Screenshot"/>
       <br/>
-      <a href="https://github.com/wi1wil/brackeys-gamejam">GitHub Repository</a>  
-      •  
+      <!-- Add GIF Preview Here -->
+      <img src="https://github.com/wi1wil/brackeys-gamejam/raw/main/demo.gif" width="80%" alt="Belly Bet Cookies Gameplay GIF"/>
+      <p>
+        A fun and quirky platformer made for Brackeys Game Jam.  
+      </p>
+      <a href="https://github.com/wi1wil/brackeys-gamejam">
+        <img src="https://img.shields.io/badge/READ%20MORE-orange?style=for-the-badge" />
+      </a>
+      •
       <a href="https://itch.io">Play on itch.io</a>
     </td>
-    <td align="center" width="50%">
+    <td width="50%" align="center">
       <h3>Magic City</h3>
-      <a href="https://github.com/wi1wil/MagicCity">
-        <img src="https://github.com/wi1wil/MagicCity/raw/main/screenshot.png" width="100%" alt="Magic City Screenshot"/>
-      </a>
+      <img src="https://github.com/wi1wil/MagicCity/raw/main/screenshot.png" width="100%" alt="Magic City Screenshot"/>
       <br/>
-      <a href="https://github.com/wi1wil/MagicCity">GitHub Repository</a>  
-      •  
+      <!-- Add GIF Preview Here -->
+      <img src="https://github.com/wi1wil/MagicCity/raw/main/demo.gif" width="80%" alt="Magic City Gameplay GIF"/>
+      <p>
+        A magical city-building strategy game with unique mechanics and AI interactions.  
+      </p>
+      <a href="https://github.com/wi1wil/MagicCity">
+        <img src="https://img.shields.io/badge/READ%20MORE-orange?style=for-the-badge" />
+      </a>
+      •
       <a href="https://itch.io">Play on itch.io</a>
     </td>
   </tr>
 </table>
-
 ---
 
 ## 📊 My GitHub History!

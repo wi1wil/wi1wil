@@ -5,9 +5,9 @@
 
 ## 🚀 About Me
 - 🎓 Studying Game Application & Technology @ <a href="https://binus.ac.id/" target="_blank">BINUS</a>  
-- 🛠️ Working with Unity, C#, Python  
+- 🛠️ Working with Unity, C#
 - 🌱 Learning AI in games & multiplayer systems  
-- 💡 Interested in game design, procedural generation, and cool AI  
+- 💡 Interested in game development, procedural generation, and cool enemy AI  
 
 ---
 

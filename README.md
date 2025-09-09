@@ -49,7 +49,7 @@
       </a>
     </td>
     <td width="50%" align="center">
-      <h3>FLogic Seed Training</h3>
+      <h3>Logic Seed Training</h3>
       <img src="https://github.com/wi1wil/LST/raw/main/screenshot.png" width="100%" alt="Focus Up Screenshot"/>
       <br/>
       <!-- Add GIF Preview Here -->

@@ -81,7 +81,7 @@
 
 ## 🐍 Watch my contributions turn into a snake!
 
-![Snake animation](https://github.com/wi1wil/wi1wil/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/wi1wil/wi1wil/output/github-contribution-grid-snake.svg)
 ---
 
 ## 📫 Contact

@@ -54,7 +54,7 @@
       <!-- Add GIF Preview Here -->
       <img src="https://github.com/wi1wil/LST/raw/main/demo.gif" width="80%" alt="Focus Up Gameplay GIF"/>
       <p>
-        A productivity-based game designed to help players stay focused and motivated.  
+        Play as a mage character and fight armies!
       </p>
       <a href="https://github.com/wi1wil/LST">
         <img src="https://img.shields.io/badge/READ%20MORE-orange?style=for-the-badge" />
@@ -89,7 +89,7 @@
       <!-- Add GIF Preview Here -->
       <img src="https://github.com/wi1wil/MagicCity/raw/main/demo.gif" width="80%" alt="Magic City Gameplay GIF"/>
       <p>
-        A magical city-building strategy game with unique mechanics and AI interactions.  
+        Play as a mage, and cast fireballs on zombies!
       </p>
       <a href="https://github.com/wi1wil/MagicCity">
         <img src="https://img.shields.io/badge/READ%20MORE-orange?style=for-the-badge" />

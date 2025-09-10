@@ -117,5 +117,5 @@
 
 ## 📫 Contact  
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-link)
-[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://itch.io/profile/your-link)
+[![Instagram](https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?logo=instagram-white&logoColor=fff)](https://instagram.com/your-link)
+[![Itch.io](https://custom-icon-badges.demolab.com/badge/Itch.io-FA5C5C?logo=itchio-white&logoColor=fff)](https://itch.io/profile/your-link)

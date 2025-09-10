@@ -104,7 +104,6 @@
 ---
 
 ## 📊 My GitHub History!
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wi1wil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </a>
@@ -117,6 +116,6 @@
 ---
 
 ## 📫 Contact  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-link)
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://itch.io/profile/your-link)

@@ -8,7 +8,7 @@
 
 ---
 
-## 📂 Past Projects:
+## 📂 I've worked/working on:
 <table>
   <tr>
     <td width="50%" align="center">

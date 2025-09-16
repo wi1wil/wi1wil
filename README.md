@@ -28,15 +28,15 @@
       </a>
     </td>
     <td width="50%" align="center">
-      <h3>Logic Seed Training</h3>
-      <img src="https://github.com/wi1wil/LST/raw/main/screenshot.png" width="100%" alt="Focus Up Screenshot"/>
+      <h3>Belly Bet Cookies</h3>
+      <img src="https://github.com/wi1wil/wi1wil/raw/main/BellyBetCookies.png" width="100%" alt="Belly Bet Cookies Screenshot"/>
       <br/>
       <!-- Add GIF Preview Here -->
-      <img src="https://github.com/wi1wil/LST/raw/main/demo.gif" width="80%" alt="Focus Up Gameplay GIF"/>
+      <img src="https://github.com/wi1wil/brackeys-gamejam/raw/main/demo.gif" width="80%" alt="Belly Bet Cookies Gameplay GIF"/>
       <p>
-        Play as a mage character and fight armies!
+        A fun and quirky platformer made for Brackeys Game Jam.  
       </p>
-      <a href="https://github.com/wi1wil/LST">
+      <a href="https://github.com/wi1wil/brackeys-gamejam">
         <img src="https://img.shields.io/badge/READ%20MORE-orange?style=for-the-badge" />
       </a>
       <a href="https://itch.io">
@@ -47,15 +47,15 @@
 
   <tr>
     <td width="50%" align="center">
-      <h3>Belly Bet Cookies</h3>
-      <img src="https://github.com/wi1wil/wi1wil/raw/main/BellyBetCookies.png" width="100%" alt="Belly Bet Cookies Screenshot"/>
+      <h3>Logic Seed Training</h3>
+      <img src="https://github.com/wi1wil/LST/raw/main/screenshot.png" width="100%" alt="Logic Seed Training Screenshot"/>
       <br/>
       <!-- Add GIF Preview Here -->
-      <img src="https://github.com/wi1wil/brackeys-gamejam/raw/main/demo.gif" width="80%" alt="Belly Bet Cookies Gameplay GIF"/>
+      <img src="https://github.com/wi1wil/LST/raw/main/demo.gif" width="80%" alt="Logic Seed Training Gameplay GIF"/>
       <p>
-        A fun and quirky platformer made for Brackeys Game Jam.  
+        Play as a mage character and fight armies!
       </p>
-      <a href="https://github.com/wi1wil/brackeys-gamejam">
+      <a href="https://github.com/wi1wil/LST">
         <img src="https://img.shields.io/badge/READ%20MORE-orange?style=for-the-badge" />
       </a>
       <a href="https://itch.io">

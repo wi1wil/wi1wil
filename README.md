@@ -12,78 +12,59 @@
 
 <table>
   <tr>
-    <!-- Project 1 -->
-    <td width="50%" align="center" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3>♻️ Mulung Preneur</h3>
-      <img src="https://github.com/wi1wil/wi1wil/raw/main/MulungPreneur.png"
-           alt="Mulung Preneur Screenshot"
-           style="width:400px;height:225px;object-fit:cover;"/>
-      <p align="left">
-        A casual recycling tycoon game where players collect trash and turn it into profit.
-      </p>
+      <img src="https://github.com/wi1wil/wi1wil/raw/main/MulungPreneur.png" alt="Mulung Preneur" width="100%" height="325" style="object-fit:cover;"/>
+      <p>A casual recycling tycoon game where players collect trash and turn it into profit.</p>
+      <p><i>Game Project – Programmer & Designer</i></p>
       <a href="https://github.com/wi1wil/MulungPreneur">
-        <img src="https://img.shields.io/badge/Github_Page-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/READ%20MORE-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <a href="https://wi1wil.itch.io/mulungpreneur">
-        <img src="https://img.shields.io/badge/Itch_Page-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PLAY%20GAME-FF0000?style=for-the-badge&logo=itch.io&logoColor=white" />
       </a>
     </td>
-
-    <!-- Project 2 -->
-    <td width="50%" align="center" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3>🍪 Belly Bet Cookies</h3>
-      <img src="https://github.com/wi1wil/wi1wil/raw/main/BellyBetCookies.png"
-           alt="Belly Bet Cookies Screenshot"
-           style="width:400px;height:225px;object-fit:cover;"/>
-      <p align="left">
-        A fun and quirky platformer made for Brackeys Game Jam.
-      </p>
+      <img src="https://github.com/wi1wil/wi1wil/raw/main/BellyBetCookies.png" alt="Belly Bet Cookies" width="100%" height="325" style="object-fit:cover;"/>
+      <p>A fun and quirky platformer made for Brackeys Game Jam.</p>
+      <p><i>Brackeys Game Jam – Game Programmer</i></p>
       <a href="https://github.com/wi1wil/brackeys-gamejam">
-        <img src="https://img.shields.io/badge/Github_Page-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/READ%20MORE-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <a href="https://kangmantul.itch.io/rat-the-cookies-maniac">
-        <img src="https://img.shields.io/badge/Itch_Page-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PLAY%20GAME-FF0000?style=for-the-badge&logo=itch.io&logoColor=white" />
       </a>
     </td>
   </tr>
 
   <tr>
-    <!-- Project 3 -->
-    <td width="50%" align="center" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3>🧙 Logic Seed Training</h3>
-      <img src="https://github.com/wi1wil/LST/raw/main/screenshot.png"
-           alt="Logic Seed Training Screenshot"
-           style="width:400px;height:225px;object-fit:cover;"/>
-      <p align="left">
-        Play as a mage character and fight armies!
-      </p>
+      <img src="https://github.com/wi1wil/LST/raw/main/screenshot.png" alt="Logic Seed Training" width="100%" height="325" style="object-fit:cover;"/>
+      <p>Play as a mage character and fight armies!</p>
+      <p><i>Game Prototype – Game Programmer</i></p>
       <a href="https://github.com/wi1wil/LST">
-        <img src="https://img.shields.io/badge/Github_Page-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/READ%20MORE-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <a href="https://itch.io">
-        <img src="https://img.shields.io/badge/Itch_Page-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PLAY%20GAME-FF0000?style=for-the-badge&logo=itch.io&logoColor=white" />
       </a>
     </td>
-
-    <!-- Project 4 -->
-    <td width="50%" align="center" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3>🔥 Magic City</h3>
-      <img src="https://github.com/wi1wil/MagicCity/raw/main/screenshot.png"
-           alt="Magic City Screenshot"
-           style="width:400px;height:225px;object-fit:cover;"/>
-      <p align="left">
-        Play as a mage, and cast fireballs on zombies!
-      </p>
+      <img src="https://github.com/wi1wil/MagicCity/raw/main/screenshot.png" alt="Magic City" width="100%" height="325" style="object-fit:cover;"/>
+      <p>Play as a mage, and cast fireballs on zombies!</p>
+      <p><i>Side Project – Game Programmer</i></p>
       <a href="https://github.com/wi1wil/MagicCity">
-        <img src="https://img.shields.io/badge/Github_Page-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/READ%20MORE-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <a href="https://itch.io">
-        <img src="https://img.shields.io/badge/Itch_Page-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PLAY%20GAME-FF0000?style=for-the-badge&logo=itch.io&logoColor=white" />
       </a>
     </td>
   </tr>
 </table>
-
 
 ---
 

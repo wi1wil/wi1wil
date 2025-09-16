@@ -14,7 +14,7 @@
   <tr>
     <td width="50%" valign="top" align="center">
       <h3>♻️ Mulung Preneur</h3>
-      <img src="https://github.com/wi1wil/wi1wil/raw/main/MulungPreneur.png" alt="Mulung Preneur" width="100%" height="325" style="object-fit:cover;"/>
+      <img src="https://github.com/wi1wil/wi1wil/raw/main/MulungPreneur.png" alt="Mulung Preneur" width="100%" height="225" style="object-fit:cover;"/>
       <p>A recycling tycoon game where players collect trash and turn it into profit.</p>
       <p><i>Serious Game– Game Programmer </i></p>
       <a href="https://github.com/wi1wil/MulungPreneur">

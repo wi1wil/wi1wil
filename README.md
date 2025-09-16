@@ -22,10 +22,10 @@
         A casual recycling tycoon game where players collect trash and turn it into profit.
       </p>
       <a href="https://github.com/wi1wil/MulungPreneur">
-        <img src="https://img.shields.io/badge/Github_Page-181717?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Github_Page-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
       <a href="https://wi1wil.itch.io/mulungpreneur">
-        <img src="https://img.shields.io/badge/Itch_Page-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
+        <img src="https://img.shields.io/badge/Itch_Page-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"/>
       </a>
     </td>
 
@@ -39,10 +39,10 @@
         A fun and quirky platformer made for Brackeys Game Jam.
       </p>
       <a href="https://github.com/wi1wil/brackeys-gamejam">
-        <img src="https://img.shields.io/badge/Github_Page-181717?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Github_Page-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
       <a href="https://kangmantul.itch.io/rat-the-cookies-maniac">
-        <img src="https://img.shields.io/badge/Itch_Page-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
+        <img src="https://img.shields.io/badge/Itch_Page-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"/>
       </a>
     </td>
   </tr>
@@ -58,10 +58,10 @@
         Play as a mage character and fight armies!
       </p>
       <a href="https://github.com/wi1wil/LST">
-        <img src="https://img.shields.io/badge/Github_Page-181717?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Github_Page-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
       <a href="https://itch.io">
-        <img src="https://img.shields.io/badge/Itch_Page-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
+        <img src="https://img.shields.io/badge/Itch_Page-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"/>
       </a>
     </td>
 
@@ -75,10 +75,10 @@
         Play as a mage, and cast fireballs on zombies!
       </p>
       <a href="https://github.com/wi1wil/MagicCity">
-        <img src="https://img.shields.io/badge/Github_Page-181717?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Github_Page-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
       <a href="https://itch.io">
-        <img src="https://img.shields.io/badge/Itch_Page-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
+        <img src="https://img.shields.io/badge/Itch_Page-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"/>
       </a>
     </td>
   </tr>

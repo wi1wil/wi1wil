@@ -16,7 +16,7 @@
       <h3>♻️ Mulung Preneur</h3>
       <img src="https://github.com/wi1wil/wi1wil/raw/main/MulungPreneur.png" alt="Mulung Preneur" width="100%" height="325" style="object-fit:cover;"/>
       <p>A casual recycling tycoon game where players collect trash and turn it into profit.</p>
-      <p><i>Game Project – Programmer & Designer</i></p>
+      <p><i>Serious Game– Game Programmer </i></p>
       <a href="https://github.com/wi1wil/MulungPreneur">
         <img src="https://img.shields.io/badge/READ%20MORE-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
@@ -55,7 +55,7 @@
       <h3>🔥 Magic City</h3>
       <img src="https://github.com/wi1wil/MagicCity/raw/main/screenshot.png" alt="Magic City" width="100%" height="325" style="object-fit:cover;"/>
       <p>Play as a mage, and cast fireballs on zombies!</p>
-      <p><i>Side Project – Game Programmer</i></p>
+      <p><i>Game Programming – Game Programmer</i></p>
       <a href="https://github.com/wi1wil/MagicCity">
         <img src="https://img.shields.io/badge/READ%20MORE-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>

@@ -14,7 +14,7 @@
   <tr>
     <td width="50%" align="center">
       <h3>Mulung Preneur</h3>
-      <img src="https://github.com/wi1wil/wi1wil/raw/main/MulungPreneur.png" style="width:400px;height:auto;" alt="Mulung Preneur Screenshot"/>
+      <img src="https://github.com/wi1wil/wi1wil/raw/main/MulungPreneur.png" style="width:400px;height:300;" alt="Mulung Preneur Screenshot"/>
       <br/>
       <img src="https://github.com/wi1wil/MulungPreneur/raw/main/demo.gif" style="width:300px;height:auto;" alt="Mulung Preneur Gameplay GIF"/>
       <p>
@@ -29,7 +29,7 @@
     </td>
     <td width="50%" align="center">
       <h3>Belly Bet Cookies</h3>
-      <img src="https://github.com/wi1wil/wi1wil/raw/main/BellyBetCookies.png" style="width:400px;height:auto;" alt="Belly Bet Cookies Screenshot"/>
+      <img src="https://github.com/wi1wil/wi1wil/raw/main/BellyBetCookies.png" style="width:400px;height:300;" alt="Belly Bet Cookies Screenshot"/>
       <br/>
       <img src="https://github.com/wi1wil/brackeys-gamejam/raw/main/demo.gif" style="width:300px;height:auto;" alt="Belly Bet Cookies Gameplay GIF"/>
       <p>

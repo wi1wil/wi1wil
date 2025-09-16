@@ -9,17 +9,13 @@
 ---
 
 ## 📂 I've worked/working on:
+
 <table>
   <tr>
     <td width="50%" align="center">
       <h3>Mulung Preneur</h3>
-      <div style="width:400px;height:225px;overflow:hidden;display:flex;align-items:center;justify-content:center;">
-        <img src="https://github.com/wi1wil/wi1wil/raw/main/MulungPreneur.png" style="max-width:100%;max-height:100%;object-fit:cover;" alt="Mulung Preneur Screenshot">
-      </div>
-      <br/>
-      <div style="width:300px;height:170px;overflow:hidden;display:flex;align-items:center;justify-content:center;">
-        <img src="https://github.com/wi1wil/MulungPreneur/raw/main/demo.gif" style="max-width:100%;max-height:100%;object-fit:cover;" alt="Mulung Preneur Gameplay GIF">
-      </div>
+      <img src="https://github.com/wi1wil/wi1wil/raw/main/MulungPreneur.png" height="225" alt="Mulung Preneur Screenshot"><br/>
+      <img src="https://github.com/wi1wil/MulungPreneur/raw/main/demo.gif" height="170" alt="Mulung Preneur Gameplay GIF">
       <p>A casual recycling tycoon game where players collect trash and turn it into profit.</p>
       <a href="https://github.com/wi1wil/MulungPreneur">
         <img src="https://img.shields.io/badge/READ%20MORE-orange?style=for-the-badge" />
@@ -31,13 +27,8 @@
 
     <td width="50%" align="center">
       <h3>Belly Bet Cookies</h3>
-      <div style="width:400px;height:225px;overflow:hidden;display:flex;align-items:center;justify-content:center;">
-        <img src="https://github.com/wi1wil/wi1wil/raw/main/BellyBetCookies.png" style="max-width:100%;max-height:100%;object-fit:cover;" alt="Belly Bet Cookies Screenshot">
-      </div>
-      <br/>
-      <div style="width:300px;height:170px;overflow:hidden;display:flex;align-items:center;justify-content:center;">
-        <img src="https://github.com/wi1wil/brackeys-gamejam/raw/main/demo.gif" style="max-width:100%;max-height:100%;object-fit:cover;" alt="Belly Bet Cookies Gameplay GIF">
-      </div>
+      <img src="https://github.com/wi1wil/wi1wil/raw/main/BellyBetCookies.png" height="225" alt="Belly Bet Cookies Screenshot"><br/>
+      <img src="https://github.com/wi1wil/brackeys-gamejam/raw/main/demo.gif" height="170" alt="Belly Bet Cookies Gameplay GIF">
       <p>A fun and quirky platformer made for Brackeys Game Jam.</p>
       <a href="https://github.com/wi1wil/brackeys-gamejam">
         <img src="https://img.shields.io/badge/READ%20MORE-orange?style=for-the-badge" />
@@ -51,13 +42,8 @@
   <tr>
     <td width="50%" align="center">
       <h3>Logic Seed Training</h3>
-      <div style="width:400px;height:225px;overflow:hidden;display:flex;align-items:center;justify-content:center;">
-        <img src="https://github.com/wi1wil/LST/raw/main/screenshot.png" style="max-width:100%;max-height:100%;object-fit:cover;" alt="Logic Seed Training Screenshot">
-      </div>
-      <br/>
-      <div style="width:300px;height:170px;overflow:hidden;display:flex;align-items:center;justify-content:center;">
-        <img src="https://github.com/wi1wil/LST/raw/main/demo.gif" style="max-width:100%;max-height:100%;object-fit:cover;" alt="Logic Seed Training Gameplay GIF">
-      </div>
+      <img src="https://github.com/wi1wil/LST/raw/main/screenshot.png" height="225" alt="Logic Seed Training Screenshot"><br/>
+      <img src="https://github.com/wi1wil/LST/raw/main/demo.gif" height="170" alt="Logic Seed Training Gameplay GIF">
       <p>Play as a mage character and fight armies!</p>
       <a href="https://github.com/wi1wil/LST">
         <img src="https://img.shields.io/badge/READ%20MORE-orange?style=for-the-badge" />
@@ -69,13 +55,8 @@
 
     <td width="50%" align="center">
       <h3>Magic City</h3>
-      <div style="width:400px;height:225px;overflow:hidden;display:flex;align-items:center;justify-content:center;">
-        <img src="https://github.com/wi1wil/MagicCity/raw/main/screenshot.png" style="max-width:100%;max-height:100%;object-fit:cover;" alt="Magic City Screenshot">
-      </div>
-      <br/>
-      <div style="width:300px;height:170px;overflow:hidden;display:flex;align-items:center;justify-content:center;">
-        <img src="https://github.com/wi1wil/MagicCity/raw/main/demo.gif" style="max-width:100%;max-height:100%;object-fit:cover;" alt="Magic City Gameplay GIF">
-      </div>
+      <img src="https://github.com/wi1wil/MagicCity/raw/main/screenshot.png" height="225" alt="Magic City Screenshot"><br/>
+      <img src="https://github.com/wi1wil/MagicCity/raw/main/demo.gif" height="170" alt="Magic City Gameplay GIF">
       <p>Play as a mage, and cast fireballs on zombies!</p>
       <a href="https://github.com/wi1wil/MagicCity">
         <img src="https://img.shields.io/badge/READ%20MORE-orange?style=for-the-badge" />

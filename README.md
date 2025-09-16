@@ -14,9 +14,12 @@
   <tr>
     <td width="50%" align="center">
       <h3>Mulung Preneur</h3>
-      <img src="https://github.com/wi1wil/wi1wil/raw/main/MulungPreneur.png" height="225" alt="Mulung Preneur Screenshot"><br/>
-      <img src="https://github.com/wi1wil/MulungPreneur/raw/main/demo.gif" height="170" alt="Mulung Preneur Gameplay GIF">
-      <p>A casual recycling tycoon game where players collect trash and turn it into profit.</p>
+      <img src="https://github.com/wi1wil/wi1wil/raw/main/MulungPreneur.png" style="width:400px;height:auto;" alt="Mulung Preneur Screenshot"/>
+      <br/>
+      <img src="https://github.com/wi1wil/MulungPreneur/raw/main/demo.gif" style="width:300px;height:auto;" alt="Mulung Preneur Gameplay GIF"/>
+      <p>
+        A casual recycling tycoon game where players collect trash and turn it into profit.  
+      </p>
       <a href="https://github.com/wi1wil/MulungPreneur">
         <img src="https://img.shields.io/badge/READ%20MORE-orange?style=for-the-badge" />
       </a>
@@ -24,12 +27,14 @@
         <img src="https://img.shields.io/badge/Play%20on%20Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
       </a>
     </td>
-
     <td width="50%" align="center">
       <h3>Belly Bet Cookies</h3>
-      <img src="https://github.com/wi1wil/wi1wil/raw/main/BellyBetCookies.png" height="225" alt="Belly Bet Cookies Screenshot"><br/>
-      <img src="https://github.com/wi1wil/brackeys-gamejam/raw/main/demo.gif" height="170" alt="Belly Bet Cookies Gameplay GIF">
-      <p>A fun and quirky platformer made for Brackeys Game Jam.</p>
+      <img src="https://github.com/wi1wil/wi1wil/raw/main/BellyBetCookies.png" style="width:400px;height:auto;" alt="Belly Bet Cookies Screenshot"/>
+      <br/>
+      <img src="https://github.com/wi1wil/brackeys-gamejam/raw/main/demo.gif" style="width:300px;height:auto;" alt="Belly Bet Cookies Gameplay GIF"/>
+      <p>
+        A fun and quirky platformer made for Brackeys Game Jam.  
+      </p>
       <a href="https://github.com/wi1wil/brackeys-gamejam">
         <img src="https://img.shields.io/badge/READ%20MORE-orange?style=for-the-badge" />
       </a>
@@ -42,9 +47,12 @@
   <tr>
     <td width="50%" align="center">
       <h3>Logic Seed Training</h3>
-      <img src="https://github.com/wi1wil/LST/raw/main/screenshot.png" height="225" alt="Logic Seed Training Screenshot"><br/>
-      <img src="https://github.com/wi1wil/LST/raw/main/demo.gif" height="170" alt="Logic Seed Training Gameplay GIF">
-      <p>Play as a mage character and fight armies!</p>
+      <img src="https://github.com/wi1wil/LST/raw/main/screenshot.png" style="width:400px;height:auto;" alt="Logic Seed Training Screenshot"/>
+      <br/>
+      <img src="https://github.com/wi1wil/LST/raw/main/demo.gif" style="width:300px;height:auto;" alt="Logic Seed Training Gameplay GIF"/>
+      <p>
+        Play as a mage character and fight armies!
+      </p>
       <a href="https://github.com/wi1wil/LST">
         <img src="https://img.shields.io/badge/READ%20MORE-orange?style=for-the-badge" />
       </a>
@@ -52,12 +60,14 @@
         <img src="https://img.shields.io/badge/Play%20on%20Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
       </a>
     </td>
-
     <td width="50%" align="center">
       <h3>Magic City</h3>
-      <img src="https://github.com/wi1wil/MagicCity/raw/main/screenshot.png" height="225" alt="Magic City Screenshot"><br/>
-      <img src="https://github.com/wi1wil/MagicCity/raw/main/demo.gif" height="170" alt="Magic City Gameplay GIF">
-      <p>Play as a mage, and cast fireballs on zombies!</p>
+      <img src="https://github.com/wi1wil/MagicCity/raw/main/screenshot.png" style="width:400px;height:auto;" alt="Magic City Screenshot"/>
+      <br/>
+      <img src="https://github.com/wi1wil/MagicCity/raw/main/demo.gif" style="width:300px;height:auto;" alt="Magic City Gameplay GIF"/>
+      <p>
+        Play as a mage, and cast fireballs on zombies!
+      </p>
       <a href="https://github.com/wi1wil/MagicCity">
         <img src="https://img.shields.io/badge/READ%20MORE-orange?style=for-the-badge" />
       </a>

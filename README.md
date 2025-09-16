@@ -27,7 +27,7 @@
     <td width="50%" valign="top" align="center">
       <h3>🍪 Belly Bet Cookies</h3>
       <img src="https://github.com/wi1wil/wi1wil/raw/main/BellyBetCookies.png" alt="Belly Bet Cookies" width="100%" height="225" style="object-fit:cover;"/>
-      <p>A fun and quirky platformer made for Brackeys Game Jam.</p>
+      <p>A fun top-down made for Brackeys Game Jam.</p>
       <p><i>Brackeys Game Jam – Game Programmer</i></p>
       <a href="https://github.com/wi1wil/brackeys-gamejam">
         <img src="https://img.shields.io/badge/READ%20MORE-181717?style=for-the-badge&logo=github&logoColor=white" />

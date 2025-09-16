@@ -13,10 +13,9 @@
   <tr>
     <td width="50%" align="center">
       <h3>Mulung Preneur</h3>
-      <img src="https://github.com/wi1wil/wi1wil/raw/main/MulungPreneur.png" width="100%" alt="Mulung Preneur Screenshot"/>
+      <img src="https://github.com/wi1wil/wi1wil/raw/main/MulungPreneur.png" style="width:400px;height:auto;" alt="Mulung Preneur Screenshot"/>
       <br/>
-      <!-- Add GIF Preview Here -->
-      <img src="https://github.com/wi1wil/MulungPreneur/raw/main/demo.gif" width="80%" alt="Mulung Preneur Gameplay GIF"/>
+      <img src="https://github.com/wi1wil/MulungPreneur/raw/main/demo.gif" style="width:300px;height:auto;" alt="Mulung Preneur Gameplay GIF"/>
       <p>
         A casual recycling tycoon game where players collect trash and turn it into profit.  
       </p>
@@ -29,10 +28,9 @@
     </td>
     <td width="50%" align="center">
       <h3>Belly Bet Cookies</h3>
-      <img src="https://github.com/wi1wil/wi1wil/raw/main/BellyBetCookies.png" width="100%" alt="Belly Bet Cookies Screenshot"/>
+      <img src="https://github.com/wi1wil/wi1wil/raw/main/BellyBetCookies.png" style="width:400px;height:auto;" alt="Belly Bet Cookies Screenshot"/>
       <br/>
-      <!-- Add GIF Preview Here -->
-      <img src="https://github.com/wi1wil/brackeys-gamejam/raw/main/demo.gif" width="80%" alt="Belly Bet Cookies Gameplay GIF"/>
+      <img src="https://github.com/wi1wil/brackeys-gamejam/raw/main/demo.gif" style="width:300px;height:auto;" alt="Belly Bet Cookies Gameplay GIF"/>
       <p>
         A fun and quirky platformer made for Brackeys Game Jam.  
       </p>
@@ -48,10 +46,9 @@
   <tr>
     <td width="50%" align="center">
       <h3>Logic Seed Training</h3>
-      <img src="https://github.com/wi1wil/LST/raw/main/screenshot.png" width="100%" alt="Logic Seed Training Screenshot"/>
+      <img src="https://github.com/wi1wil/LST/raw/main/screenshot.png" style="width:400px;height:auto;" alt="Logic Seed Training Screenshot"/>
       <br/>
-      <!-- Add GIF Preview Here -->
-      <img src="https://github.com/wi1wil/LST/raw/main/demo.gif" width="80%" alt="Logic Seed Training Gameplay GIF"/>
+      <img src="https://github.com/wi1wil/LST/raw/main/demo.gif" style="width:300px;height:auto;" alt="Logic Seed Training Gameplay GIF"/>
       <p>
         Play as a mage character and fight armies!
       </p>
@@ -64,10 +61,9 @@
     </td>
     <td width="50%" align="center">
       <h3>Magic City</h3>
-      <img src="https://github.com/wi1wil/MagicCity/raw/main/screenshot.png" width="100%" alt="Magic City Screenshot"/>
+      <img src="https://github.com/wi1wil/MagicCity/raw/main/screenshot.png" style="width:400px;height:auto;" alt="Magic City Screenshot"/>
       <br/>
-      <!-- Add GIF Preview Here -->
-      <img src="https://github.com/wi1wil/MagicCity/raw/main/demo.gif" width="80%" alt="Magic City Gameplay GIF"/>
+      <img src="https://github.com/wi1wil/MagicCity/raw/main/demo.gif" style="width:300px;height:auto;" alt="Magic City Gameplay GIF"/>
       <p>
         Play as a mage, and cast fireballs on zombies!
       </p>

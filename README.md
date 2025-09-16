@@ -23,7 +23,7 @@
       <a href="https://github.com/wi1wil/MulungPreneur">
         <img src="https://img.shields.io/badge/READ%20MORE-orange?style=for-the-badge" />
       </a>
-      <a href="https://itch.io">
+      <a href="[https://itch.io](https://wi1wil.itch.io/mulungpreneur)">
         <img src="https://img.shields.io/badge/Play%20on%20Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
       </a>
     </td>

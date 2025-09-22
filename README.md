@@ -10,60 +10,116 @@
 
 ## 📂 I've worked/working on:
 
-<table>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h3>♻️ Mulung Preneur</h3>
-      <img src="https://github.com/wi1wil/wi1wil/raw/main/MulungPreneur.png" alt="Mulung Preneur" width="100%" height="325" style="object-fit:cover;"/>
-      <p>A recycling tycoon game where players collect trash.</p>
-      <p><i>Serious Game– Game Programmer </i></p>
-      <a href="https://github.com/wi1wil/MulungPreneur">
-        <img src="https://img.shields.io/badge/READ%20MORE-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <a href="https://wi1wil.itch.io/mulungpreneur">
-        <img src="https://img.shields.io/badge/PLAY%20GAME-FF0000?style=for-the-badge&logo=itch.io&logoColor=white" />
-      </a>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h3>🍪 Belly Bet Cookies</h3>
-      <img src="https://github.com/wi1wil/wi1wil/raw/main/BellyBetCookies.png" alt="Belly Bet Cookies" width="100%" height="325" style="object-fit:cover;"/>
-      <p>A fun top-down made for Brackeys Game Jam.</p>
-      <p><i>Brackeys Game Jam – Game Programmer</i></p>
-      <a href="https://github.com/wi1wil/brackeys-gamejam">
-        <img src="https://img.shields.io/badge/READ%20MORE-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <a href="https://kangmantul.itch.io/rat-the-cookies-maniac">
-        <img src="https://img.shields.io/badge/PLAY%20GAME-FF0000?style=for-the-badge&logo=itch.io&logoColor=white" />
-      </a>
-    </td>
-  </tr>
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%">
+        <h2>♻️ Mulung Preneur</h2>
+      </th>
+      <th width="50%">
+        <h2>🍪 Belly Bet Cookies</h2>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://github.com/wi1wil/wi1wil/raw/main/MulungPreneur.png" 
+             alt="Mulung Preneur" width="100%" height="325" style="object-fit:cover;"/>
+      </td>
+      <td>
+        <img src="https://github.com/wi1wil/wi1wil/raw/main/BellyBetCookies.png" 
+             alt="Belly Bet Cookies" width="100%" height="325" style="object-fit:cover;"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        A recycling tycoon game where players collect trash.
+      </td>
+      <td align="center">
+        A fun top-down made for Brackeys Game Jam.
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><i>Serious Game – Game Programmer</i></td>
+      <td align="center"><i>Brackeys Game Jam – Game Programmer</i></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/wi1wil/MulungPreneur">
+          <img src="https://img.shields.io/badge/Read%20More-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://wi1wil.itch.io/mulungpreneur">
+          <img src="https://img.shields.io/badge/Play%20Game-FF0000?style=for-the-badge&logo=itch.io&logoColor=white"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/wi1wil/brackeys-gamejam">
+          <img src="https://img.shields.io/badge/Read%20More-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://kangmantul.itch.io/rat-the-cookies-maniac">
+          <img src="https://img.shields.io/badge/Play%20Game-FF0000?style=for-the-badge&logo=itch.io&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h3>🧙 Logic Seed Training</h3>
-      <img src="https://github.com/wi1wil/LST/raw/main/screenshot.png" alt="Logic Seed Training" width="100%" height="325" style="object-fit:cover;"/>
-      <p>Play as a mage character and fight armies!</p>
-      <p><i>Game Prototype – Game Programmer</i></p>
-      <a href="https://github.com/wi1wil/LST">
-        <img src="https://img.shields.io/badge/READ%20MORE-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <a href="https://itch.io">
-        <img src="https://img.shields.io/badge/PLAY%20GAME-FF0000?style=for-the-badge&logo=itch.io&logoColor=white" />
-      </a>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h3>🔥 Magic City</h3>
-      <img src="https://github.com/wi1wil/MagicCity/raw/main/screenshot.png" alt="Magic City" width="100%" height="325" style="object-fit:cover;"/>
-      <p>Play as a mage, and cast fireballs on zombies!</p>
-      <p><i>Game Programming – Game Programmer</i></p>
-      <a href="https://github.com/wi1wil/MagicCity">
-        <img src="https://img.shields.io/badge/READ%20MORE-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <a href="https://itch.io">
-        <img src="https://img.shields.io/badge/PLAY%20GAME-FF0000?style=for-the-badge&logo=itch.io&logoColor=white" />
-      </a>
-    </td>
-  </tr>
+<br>
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%">
+        <h2>🧙 Logic Seed Training</h2>
+      </th>
+      <th width="50%">
+        <h2>🔥 Magic City</h2>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://github.com/wi1wil/LST/raw/main/screenshot.png" 
+             alt="Logic Seed Training" width="100%" height="325" style="object-fit:cover;"/>
+      </td>
+      <td>
+        <img src="https://github.com/wi1wil/MagicCity/raw/main/screenshot.png" 
+             alt="Magic City" width="100%" height="325" style="object-fit:cover;"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        Play as a mage character and fight armies!
+      </td>
+      <td align="center">
+        Play as a mage, and cast fireballs on zombies!
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><i>Game Prototype – Game Programmer</i></td>
+      <td align="center"><i>Game Programming – Game Programmer</i></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/wi1wil/LST">
+          <img src="https://img.shields.io/badge/Read%20More-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://itch.io">
+          <img src="https://img.shields.io/badge/Play%20Game-FF0000?style=for-the-badge&logo=itch.io&logoColor=white"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/wi1wil/MagicCity">
+          <img src="https://img.shields.io/badge/Read%20More-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://itch.io">
+          <img src="https://img.shields.io/badge/Play%20Game-FF0000?style=for-the-badge&logo=itch.io&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ---

@@ -81,11 +81,11 @@
   <tbody>
     <tr>
       <td>
-        <img src="https://github.com/wi1wil/LST/raw/main/screenshot.png" 
+        <img src="https://github.com/wi1wil/wi1wil/raw/main/LST.png" 
              alt="Logic Seed Training" width="100%" height="325" style="object-fit:cover;"/>
       </td>
       <td>
-        <img src="https://github.com/rchtr-chn/Overcoded/raw/main/screenshot.png" 
+        <img src="https://github.com/wi1wil/wi1wil/raw/main/Overcoded.png" 
              alt="Overcoded" width="100%" height="325" style="object-fit:cover;"/>
       </td>
     </tr>
@@ -99,7 +99,7 @@
     </tr>
     <tr>
       <td align="center"><i>Game Prototype – Game Programmer</i></td>
-      <td align="center"><i>Game Programming – 2nd Game Developer</i></td>
+      <td align="center"><i>ITB Game Jam – 2nd Game Developer</i></td>
     </tr>
     <tr>
       <td align="center">

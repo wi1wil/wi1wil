@@ -74,7 +74,7 @@
         <h2>🧙 Logic Seed Training</h2>
       </th>
       <th width="50%">
-        <h2>🔥 Magic City</h2>
+        <h2>💻 Overcoded</h2>
       </th>
     </tr>
   </thead>
@@ -85,8 +85,8 @@
              alt="Logic Seed Training" width="100%" height="325" style="object-fit:cover;"/>
       </td>
       <td>
-        <img src="https://github.com/wi1wil/MagicCity/raw/main/screenshot.png" 
-             alt="Magic City" width="100%" height="325" style="object-fit:cover;"/>
+        <img src="https://github.com/rchtr-chn/Overcoded/raw/main/screenshot.png" 
+             alt="Overcoded" width="100%" height="325" style="object-fit:cover;"/>
       </td>
     </tr>
     <tr>
@@ -94,12 +94,12 @@
         Play as a mage character and fight armies!
       </td>
       <td align="center">
-        Play as a mage, and cast fireballs on zombies!
+        A chaotic coding game where you debug and solve code puzzles under pressure!
       </td>
     </tr>
     <tr>
       <td align="center"><i>Game Prototype – Game Programmer</i></td>
-      <td align="center"><i>Game Programming – Game Programmer</i></td>
+      <td align="center"><i>Game Programming – 2nd Game Developer</i></td>
     </tr>
     <tr>
       <td align="center">
@@ -111,16 +111,17 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/wi1wil/MagicCity">
+        <a href="https://github.com/rchtr-chn/Overcoded">
           <img src="https://img.shields.io/badge/Read%20More-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
-        <a href="https://itch.io">
+        <a href="https://rchtr-chn.itch.io/overcoded">
           <img src="https://img.shields.io/badge/Play%20Game-FF0000?style=for-the-badge&logo=itch.io&logoColor=white"/>
         </a>
       </td>
     </tr>
   </tbody>
 </table>
+
 
 ---
 

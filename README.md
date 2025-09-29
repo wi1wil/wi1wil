@@ -2,12 +2,6 @@
 
 ---
 
-## 🚀 About Me 
-- 🎓 Studying Game Application & Technology @ BINUS
-- 🛠️ Working with Unity, C#
-
----
-
 ## 📂 I've worked/working on:
 
 <table width="100%">

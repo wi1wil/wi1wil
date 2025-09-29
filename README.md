@@ -1,8 +1,8 @@
-## Hi there, I'm Wilson 👋  
+<h1>Hi there, I'm Wilson 👋  </h1> 
 
 ---
 
-## 📂 I've worked/working on:
+<h2>📂 I've worked/working on:</h2> 
 
 <table width="100%">
   <thead>
@@ -115,7 +115,6 @@
     </tr>
   </tbody>
 </table>
-
 
 ---
 

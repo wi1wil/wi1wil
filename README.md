@@ -18,11 +18,11 @@
   <tbody>
     <tr>
       <td>
-        <img src="https://github.com/wi1wil/wi1wil/raw/main/MulungPreneur.png" 
+        <img src="https://github.com/wi1wil/wi1wil/raw/main/MulungPreneur.gif" 
              alt="Mulung Preneur" style="width:100%; height:325px; object-fit:cover;"/>
       </td>
       <td>
-        <img src="https://github.com/wi1wil/wi1wil/raw/main/BellyBetCookies.png" 
+        <img src="https://github.com/wi1wil/wi1wil/raw/main/BBC.gif" 
              alt="Belly Bet Cookies" style="width:100%; height:325px; object-fit:cover;"/>
       </td>
     </tr>
@@ -75,11 +75,11 @@
   <tbody>
     <tr>
       <td>
-        <img src="https://github.com/wi1wil/wi1wil/raw/main/LST.png" 
+        <img src="https://github.com/wi1wil/wi1wil/raw/main/LST.gif" 
              alt="Logic Seed Training" style="width:100%; height:325px; object-fit:cover;"/>
       </td>
       <td>
-        <img src="https://github.com/wi1wil/wi1wil/raw/main/Overcoded.png" 
+        <img src="https://github.com/wi1wil/wi1wil/raw/main/Overcoded.gif" 
              alt="Overcoded" style="width:100%; height:325px; object-fit:cover;"/>
       </td>
     </tr>

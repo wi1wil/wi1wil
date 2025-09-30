@@ -65,7 +65,7 @@
   <thead>
     <tr>
       <th width="50%">
-        <h2>🧙 Logic Seed Training</h2>
+        <h2 LST </h2>
       </th>
       <th width="50%">
         <h2>💻 Overcoded</h2>

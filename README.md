@@ -93,7 +93,7 @@
     </tr>
     <tr>
       <td align="center"><i>Game Prototype – Game Programmer</i></td>
-      <td align="center"><i>ITB Game Jam – 2nd Game Developer</i></td>
+      <td align="center"><i>ITB Game Jam – Assisting Game Programmer </i></td>
     </tr>
     <tr>
       <td align="center">

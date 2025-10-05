@@ -2,7 +2,7 @@
 
 ---
 
-<h2>📂 I've worked/working on:</h2> 
+<h2>📂 I've worked/working on:</h2>
 
 <table width="100%">
   <thead>
@@ -18,12 +18,16 @@
   <tbody>
     <tr>
       <td>
-        <img src="https://github.com/wi1wil/wi1wil/raw/main/MulungPreneur.gif" 
-             alt="Mulung Preneur" style="width:100%; height:325px; object-fit:cover;"/>
+        <div style="aspect-ratio:16/9; overflow:hidden; border-radius:10px;">
+          <img src="https://github.com/wi1wil/wi1wil/raw/main/MulungPreneur.gif" 
+               alt="Mulung Preneur" style="width:100%; height:100%; object-fit:cover;"/>
+        </div>
       </td>
       <td>
-        <img src="https://github.com/wi1wil/wi1wil/raw/main/BBC.gif" 
-             alt="Belly Bet Cookies" style="width:100%; height:325px; object-fit:cover;"/>
+        <div style="aspect-ratio:16/9; overflow:hidden; border-radius:10px;">
+          <img src="https://github.com/wi1wil/wi1wil/raw/main/BBC.gif" 
+               alt="Belly Bet Cookies" style="width:100%; height:100%; object-fit:cover;"/>
+        </div>
       </td>
     </tr>
     <tr>
@@ -65,7 +69,7 @@
   <thead>
     <tr>
       <th width="50%">
-        <h2> 🧙‍♂️ Last Standing </h2>
+        <h2>🧙‍♂️ Last Standing</h2>
       </th>
       <th width="50%">
         <h2>💻 Overcoded</h2>
@@ -75,12 +79,16 @@
   <tbody>
     <tr>
       <td>
-        <img src="https://github.com/wi1wil/wi1wil/raw/main/LST.gif" 
-             alt="Logic Seed Training" style="width:100%; height:325px; object-fit:cover;"/>
+        <div style="aspect-ratio:16/9; overflow:hidden; border-radius:10px;">
+          <img src="https://github.com/wi1wil/wi1wil/raw/main/LST.gif" 
+               alt="Last Standing" style="width:100%; height:100%; object-fit:cover;"/>
+        </div>
       </td>
       <td>
-        <img src="https://github.com/wi1wil/wi1wil/raw/main/Overcoded.gif" 
-             alt="Overcoded" style="width:100%; height:325px; object-fit:cover;"/>
+        <div style="aspect-ratio:16/9; overflow:hidden; border-radius:10px;">
+          <img src="https://github.com/wi1wil/wi1wil/raw/main/Overcoded.gif" 
+               alt="Overcoded" style="width:100%; height:100%; object-fit:cover;"/>
+        </div>
       </td>
     </tr>
     <tr>
@@ -93,7 +101,7 @@
     </tr>
     <tr>
       <td align="center"><i>Game Prototype – Game Programmer</i></td>
-      <td align="center"><i>ITB Game Jam – Assisting Game Programmer </i></td>
+      <td align="center"><i>ITB Game Jam – Assisting Game Programmer</i></td>
     </tr>
     <tr>
       <td align="center">

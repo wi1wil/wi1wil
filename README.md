@@ -108,9 +108,6 @@
         <a href="https://github.com/wi1wil/LST">
           <img src="https://img.shields.io/badge/Read%20More-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
-        <a href="https://itch.io">
-          <img src="https://img.shields.io/badge/Play%20Game-FF0000?style=for-the-badge&logo=itch.io&logoColor=white"/>
-        </a>
       </td>
       <td align="center">
         <a href="https://github.com/rchtr-chn/Overcoded">

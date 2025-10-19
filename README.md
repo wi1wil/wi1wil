@@ -31,19 +31,39 @@
       </td>
     </tr>
     <tr>
-      <td align="center">
-        A recycling tycoon game where players collect trash.
+      <td>
+        A serious educational tycoon game focused on raising awareness about pollution in Indonesia and fostering empathy towards waste-pickers.
       </td>
-      <td align="center">
-        A fun top-down made for Brackeys Game Jam.
+      <td>
+        A chaotic top-down game where players collect cookies, gamble cookies for abilities to survive chefs & cooks!
       </td>
     </tr>
     <tr>
-      <td align="center"><i>Serious Game – Game Programmer</i></td>
-      <td align="center"><i>Brackeys Game Jam – Game Programmer</i></td>
+      <td>
+        <div style="padding:10px; border:1px solid #d0d7de; border-radius:10px; background:#f6f8fa; text-align:left;">
+          <b>My Contributions</b><br>
+          • Implemented trash collection & inventory systems<br>
+          • Designed crafting and recycling mechanics<br>
+          • Developed NPC interactions & quest system<br>
+          • Created Day/Night cycle with time-based events<br>
+          • Built saving & loading system using JSON<br>
+        </div>
+      </td>
+      <td>
+        <div style="padding:10px; border:1px solid #d0d7de; border-radius:10px; background:#f6f8fa; text-align:left;">
+          <b>My Contributions</b><br>
+          • Enemy AI behavior & pathfinding<br>
+          • Power-ups systems<br>
+          • Gambling and revive mechanics<br>
+        </div>
+      </td>
     </tr>
     <tr>
-      <td align="center">
+      <td><i>Hours worked: ~50 hours</i></td>
+      <td><i>Hours worked: ~21 hours</i></td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://github.com/wi1wil/MulungPreneur">
           <img src="https://img.shields.io/badge/Read%20More-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
@@ -51,7 +71,7 @@
           <img src="https://img.shields.io/badge/Play%20Game-FF0000?style=for-the-badge&logo=itch.io&logoColor=white"/>
         </a>
       </td>
-      <td align="center">
+      <td>
         <a href="https://github.com/wi1wil/brackeys-gamejam">
           <img src="https://img.shields.io/badge/Read%20More-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
@@ -63,7 +83,7 @@
   </tbody>
 </table>
 
-<br>
+<br><br>
 
 <table width="100%">
   <thead>
@@ -92,24 +112,38 @@
       </td>
     </tr>
     <tr>
-      <td align="center">
-        Play as a mage character and fight armies!
+      <td>Play as a mage character and fight incoming hordes using spells and strategic movement.</td>
+      <td>An endless runner-style game where a stressed developer races to fix bugs before the code collapses.</td>
+    </tr>
+    <tr>
+      <td>
+        <div style="padding:10px; border:1px solid #d0d7de; border-radius:10px; background:#f6f8fa; text-align:left;">
+          <b>What I Coded:</b><br>
+          • Player combat system & spell mechanics<br>
+          • Archer AI states & attacks <br>
+          • Inventory system<br>
+          • Procedural map generation<br>
+        </div>
       </td>
-      <td align="center">
-        A chaotic coding game where you debug and solve code puzzles under pressure!
+      <td>
+        <div style="padding:10px; border:1px solid #d0d7de; border-radius:10px; background:#f6f8fa; text-align:left;">
+          <b>What I Coded:</b><br>
+          • Implemented annoying fly mechanics<br>
+          • Implemented fatigue & coffee energy system<br>
+        </div>
       </td>
     </tr>
     <tr>
-      <td align="center"><i>Game Prototype – Game Programmer</i></td>
-      <td align="center"><i>ITB Game Jam – Assisting Game Programmer</i></td>
+      <td><i>Hours worked: ~25 hours</i></td>
+      <td><i>Hours worked: ~30 hours</i></td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
         <a href="https://github.com/wi1wil/LST">
           <img src="https://img.shields.io/badge/Read%20More-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </td>
-      <td align="center">
+      <td>
         <a href="https://github.com/rchtr-chn/Overcoded">
           <img src="https://img.shields.io/badge/Read%20More-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>

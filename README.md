@@ -59,27 +59,27 @@
       </td>
     </tr>
     <tr>
-      <td><i>Hours worked: ~50 hours</i></td>
-      <td><i>Hours worked: ~21 hours</i></td>
+      <td align="center"><i>Hours worked: ~50 hours</i></td>
+      <td align="center"><i>Hours worked: ~21 hours</i></td>
     </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/wi1wil/MulungPreneur">
-          <img src="https://img.shields.io/badge/Read%20More-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-        <a href="https://wi1wil.itch.io/mulungpreneur">
-          <img src="https://img.shields.io/badge/Play%20Game-FF0000?style=for-the-badge&logo=itch.io&logoColor=white"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/wi1wil/brackeys-gamejam">
-          <img src="https://img.shields.io/badge/Read%20More-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-        <a href="https://kangmantul.itch.io/rat-the-cookies-maniac">
-          <img src="https://img.shields.io/badge/Play%20Game-FF0000?style=for-the-badge&logo=itch.io&logoColor=white"/>
-        </a>
-      </td>
-    </tr>
+       <tr>
+        <td align="center">
+          <a href="https://github.com/wi1wil/MulungPreneur">
+            <img src="https://img.shields.io/badge/Read%20More-181717?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+          <a href="https://wi1wil.itch.io/mulungpreneur">
+            <img src="https://img.shields.io/badge/Play%20Game-FF0000?style=for-the-badge&logo=itch.io&logoColor=white"/>
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://github.com/wi1wil/brackeys-gamejam">
+            <img src="https://img.shields.io/badge/Read%20More-181717?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+          <a href="https://kangmantul.itch.io/rat-the-cookies-maniac">
+            <img src="https://img.shields.io/badge/Play%20Game-FF0000?style=for-the-badge&logo=itch.io&logoColor=white"/>
+          </a>
+        </td>
+      </tr>
   </tbody>
 </table>
 
@@ -134,24 +134,24 @@
       </td>
     </tr>
     <tr>
-      <td><i>Hours worked: ~25 hours</i></td>
-      <td><i>Hours worked: ~30 hours</i></td>
+      <td align="center"><i>Hours worked: ~25 hours</i></td>
+      <td align="center"><i>Hours worked: ~30 hours</i></td>
     </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/wi1wil/LST">
-          <img src="https://img.shields.io/badge/Read%20More-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/rchtr-chn/Overcoded">
-          <img src="https://img.shields.io/badge/Read%20More-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-        <a href="https://rchtr-chn.itch.io/overcoded">
-          <img src="https://img.shields.io/badge/Play%20Game-FF0000?style=for-the-badge&logo=itch.io&logoColor=white"/>
-        </a>
-      </td>
-    </tr>
+      <tr>
+        <td align="center">
+          <a href="https://github.com/wi1wil/LST">
+            <img src="https://img.shields.io/badge/Read%20More-181717?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://github.com/rchtr-chn/Overcoded">
+            <img src="https://img.shields.io/badge/Read%20More-181717?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+          <a href="https://rchtr-chn.itch.io/overcoded">
+            <img src="https://img.shields.io/badge/Play%20Game-FF0000?style=for-the-badge&logo=itch.io&logoColor=white"/>
+          </a>
+        </td>
+      </tr>
   </tbody>
 </table>
 

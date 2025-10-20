@@ -192,4 +192,4 @@
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/wilson-halim-5144702aa/)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__wil.h/)  
 [![Itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white)](https://wi1wil.itch.io/)  
-[![CV](https://img.shields.io/badge/CV-4285F4?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1u1SjTI79J-GcrNi6KBESl67NUspypqvc/view?usp=drive_link)
+[![CV](https://img.shields.io/badge/CV-4285F4?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Mpv0Ub1J2qiFMzJi-dkx8C-9YxaHQ32o/view?usp=sharing)

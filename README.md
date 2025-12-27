@@ -7,79 +7,73 @@
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%">
-        <h2>♻️ Mulung Preneur</h2>
-      </th>
-      <th width="50%">
-        <h2>🍪 Belly Bet Cookies</h2>
-      </th>
+      <th width="50%"><h2>♻️ Mulung Preneur</h2></th>
+      <th width="50%"><h2>🧙‍♂️ Last Standing</h2></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
         <div style="aspect-ratio:16/9; overflow:hidden; border-radius:10px;">
-          <img src="https://github.com/wi1wil/wi1wil/raw/main/MulungPreneur.gif" 
-               alt="Mulung Preneur" style="width:100%; height:100%; object-fit:cover;"/>
+          <img src="https://github.com/wi1wil/wi1wil/raw/main/MulungPreneur.gif"
+               style="width:100%; height:100%; object-fit:cover;"/>
         </div>
       </td>
       <td>
         <div style="aspect-ratio:16/9; overflow:hidden; border-radius:10px;">
-          <img src="https://github.com/wi1wil/wi1wil/raw/main/BBC.gif" 
-               alt="Belly Bet Cookies" style="width:100%; height:100%; object-fit:cover;"/>
+          <img src="https://github.com/wi1wil/wi1wil/raw/main/LST.gif"
+               style="width:100%; height:100%; object-fit:cover;"/>
         </div>
       </td>
     </tr>
     <tr>
       <td>
-        A serious educational tycoon game focused on raising awareness about pollution in Indonesia and fostering empathy towards waste-pickers.
+        A serious educational tycoon game focused on pollution awareness and empathy towards waste-pickers.
       </td>
       <td>
-        A chaotic top-down game where players collect cookies, gamble cookies for abilities to survive chefs & cooks!
+        Play as a mage character and fight incoming hordes using spells and strategic movement.
       </td>
     </tr>
     <tr>
       <td>
-        <div style="padding:10px; border:1px solid #d0d7de; border-radius:10px; background:#f6f8fa; text-align:left;">
+        <div style="padding:10px; border:1px solid #d0d7de; border-radius:10px; background:#f6f8fa;">
           <b>My Contributions</b><br>
-          • Implemented trash collection & inventory systems<br>
-          • Designed crafting and recycling mechanics<br>
-          • Developed NPC interactions & quest system<br>
-          • Created Day/Night cycle with time-based events<br>
-          • Built saving & loading system using JSON<br>
+          • Trash collection & inventory<br>
+          • Crafting & recycling<br>
+          • NPCs & quests<br>
+          • Day/Night cycle<br>
+          • Save/Load (JSON)
         </div>
       </td>
       <td>
-        <div style="padding:10px; border:1px solid #d0d7de; border-radius:10px; background:#f6f8fa; text-align:left;">
-          <b>My Contributions</b><br>
-          • Enemy AI behavior & pathfinding<br>
-          • Power-ups systems<br>
-          • Gambling and revive mechanics<br>
+        <div style="padding:10px; border:1px solid #d0d7de; border-radius:10px; background:#f6f8fa;">
+          <b>What I Coded</b><br>
+          • Combat & spell systems<br>
+          • Archer AI states<br>
+          • Inventory system<br>
+          • Procedural maps
         </div>
       </td>
     </tr>
     <tr>
       <td align="center"><i>Hours worked: ~50 hours</i></td>
-      <td align="center"><i>Hours worked: ~21 hours</i></td>
+      <td align="center"><i>Hours worked: ~25 hours</i></td>
     </tr>
-       <tr>
-        <td align="center">
-          <a href="https://github.com/wi1wil/MulungPreneur">
-            <img src="https://img.shields.io/badge/Read%20More-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <a href="https://wi1wil.itch.io/mulungpreneur">
-            <img src="https://img.shields.io/badge/Play%20Game-FF0000?style=for-the-badge&logo=itch.io&logoColor=white"/>
-          </a>
-        </td>
-        <td align="center">
-          <a href="https://github.com/wi1wil/brackeys-gamejam">
-            <img src="https://img.shields.io/badge/Read%20More-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <a href="https://kangmantul.itch.io/rat-the-cookies-maniac">
-            <img src="https://img.shields.io/badge/Play%20Game-FF0000?style=for-the-badge&logo=itch.io&logoColor=white"/>
-          </a>
-        </td>
-      </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/wi1wil/MulungPreneur">
+          <img src="https://img.shields.io/badge/Read%20More-181717?style=for-the-badge&logo=github"/>
+        </a>
+        <a href="https://wi1wil.itch.io/mulungpreneur">
+          <img src="https://img.shields.io/badge/Play%20Game-FF0000?style=for-the-badge&logo=itch.io"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/wi1wil/LST">
+          <img src="https://img.shields.io/badge/Read%20More-181717?style=for-the-badge&logo=github"/>
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -88,70 +82,72 @@
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%">
-        <h2>🧙‍♂️ Last Standing</h2>
-      </th>
-      <th width="50%">
-        <h2>💻 Overcoded</h2>
-      </th>
+      <th width="50%"><h2>🍪 Belly Bet Cookies</h2></th>
+      <th width="50%"><h2>💻 Overcoded</h2></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
         <div style="aspect-ratio:16/9; overflow:hidden; border-radius:10px;">
-          <img src="https://github.com/wi1wil/wi1wil/raw/main/LST.gif" 
-               alt="Last Standing" style="width:100%; height:100%; object-fit:cover;"/>
+          <img src="https://github.com/wi1wil/wi1wil/raw/main/BBC.gif"
+               style="width:100%; height:100%; object-fit:cover;"/>
         </div>
       </td>
       <td>
         <div style="aspect-ratio:16/9; overflow:hidden; border-radius:10px;">
-          <img src="https://github.com/wi1wil/wi1wil/raw/main/Overcoded.gif" 
-               alt="Overcoded" style="width:100%; height:100%; object-fit:cover;"/>
+          <img src="https://github.com/wi1wil/wi1wil/raw/main/Overcoded.gif"
+               style="width:100%; height:100%; object-fit:cover;"/>
         </div>
       </td>
-    </tr>
-    <tr>
-      <td>Play as a mage character and fight incoming hordes using spells and strategic movement.</td>
-      <td>An endless runner-style game where a stressed developer races to fix bugs before the code collapses.</td>
     </tr>
     <tr>
       <td>
-        <div style="padding:10px; border:1px solid #d0d7de; border-radius:10px; background:#f6f8fa; text-align:left;">
-          <b>What I Coded:</b><br>
-          • Player combat system & spell mechanics<br>
-          • Archer AI states & attacks <br>
-          • Inventory system<br>
-          • Procedural map generation<br>
+        A chaotic top-down game where players gamble cookies for survival.
+      </td>
+      <td>
+        An endless runner about a stressed developer fixing bugs.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div style="padding:10px; border:1px solid #d0d7de; border-radius:10px; background:#f6f8fa;">
+          <b>My Contributions</b><br>
+          • Enemy AI & pathfinding<br>
+          • Power-ups<br>
+          • Gambling & revive systems
         </div>
       </td>
       <td>
-        <div style="padding:10px; border:1px solid #d0d7de; border-radius:10px; background:#f6f8fa; text-align:left;">
-          <b>What I Coded:</b><br>
-          • Implemented annoying fly mechanics<br>
-          • Implemented fatigue & coffee energy system<br>
+        <div style="padding:10px; border:1px solid #d0d7de; border-radius:10px; background:#f6f8fa;">
+          <b>What I Coded</b><br>
+          • Fly mechanics<br>
+          • Fatigue & coffee energy system
         </div>
       </td>
     </tr>
     <tr>
-      <td align="center"><i>Hours worked: ~25 hours</i></td>
+      <td align="center"><i>Hours worked: ~21 hours</i></td>
       <td align="center"><i>Hours worked: ~30 hours</i></td>
     </tr>
-      <tr>
-        <td align="center">
-          <a href="https://github.com/wi1wil/LST">
-            <img src="https://img.shields.io/badge/Read%20More-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-        </td>
-        <td align="center">
-          <a href="https://github.com/rchtr-chn/Overcoded">
-            <img src="https://img.shields.io/badge/Read%20More-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <a href="https://rchtr-chn.itch.io/overcoded">
-            <img src="https://img.shields.io/badge/Play%20Game-FF0000?style=for-the-badge&logo=itch.io&logoColor=white"/>
-          </a>
-        </td>
-      </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/wi1wil/brackeys-gamejam">
+          <img src="https://img.shields.io/badge/Read%20More-181717?style=for-the-badge&logo=github"/>
+        </a>
+        <a href="https://kangmantul.itch.io/rat-the-cookies-maniac">
+          <img src="https://img.shields.io/badge/Play%20Game-FF0000?style=for-the-badge&logo=itch.io"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/rchtr-chn/Overcoded">
+          <img src="https://img.shields.io/badge/Read%20More-181717?style=for-the-badge&logo=github"/>
+        </a>
+        <a href="https://rchtr-chn.itch.io/overcoded">
+          <img src="https://img.shields.io/badge/Play%20Game-FF0000?style=for-the-badge&logo=itch.io"/>
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
 

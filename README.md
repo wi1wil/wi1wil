@@ -49,9 +49,9 @@
         <div style="padding:10px; border:1px solid #d0d7de; border-radius:10px; background:#f6f8fa;">
           <b>What I Coded</b><br>
           • Combat & spell systems<br>
-          • Archer AI states<br>
+          • Archer AI using State Machines<br>
           • Inventory system<br>
-          • Procedural maps
+          • Procedural maps generation
         </div>
       </td>
     </tr>

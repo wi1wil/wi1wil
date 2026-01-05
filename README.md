@@ -170,20 +170,6 @@
 
 ---
 
-
-
-## 📊 My GitHub History!
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats-lake-sigma-71.vercel.app/api?username=wi1wil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats-lake-sigma-71.vercel.app/api/top-langs/?username=wi1wil&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
-
-![GitHub Snake](https://raw.githubusercontent.com/wi1wil/wi1wil/output/github-contribution-grid-snake.svg)
-
----
-
 ## 📫 Contact  
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/wilson-halim-5144702aa/)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__wil.h/)  
